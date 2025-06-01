@@ -17,7 +17,7 @@ Features -
     PlayList Control with NEW Hover Support  
     SongList Control with NEW Scroll Support  
     Volume Control  
-5. Keyboard: (Keys { 0-9, +,-, *, /, . } only on Keypad with NumLock On}  
+5. Keyboard: \(Keys { 0-9, +,-, *, /, . } only on Keypad with NumLock On\)  
     App Controls:   
         To Hide App: H  
         To Show App: LCtrl LShift `  
